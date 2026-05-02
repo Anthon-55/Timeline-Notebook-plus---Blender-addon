@@ -10,8 +10,6 @@
 ## 📄 Overview
 **Timeline Notebook Plus** is a high-end productivity tool for **Blender 5.0+** designed for animators who value flow and organization. It replaces the limited native Marker system with a modern, aesthetic **HUD (Heads-Up Display)**, allowing you to anchor detailed production instructions to specific intervals in your timeline.
 
-Whether you are refining a complex combat sequence for games like **NDoki: Last Night** or timing facial expressions, this addon keeps your focus where it belongs: on the animation.
-
 ---
 
 ## ✨ Key Features
@@ -38,16 +36,5 @@ Whether you are refining a complex combat sequence for games like **NDoki: Last 
 *   **Current Version**: 5.3 (Stable)
 *   **Compatibility**: Blender 5.0.0 or higher
 *   **Location**: View3D > Sidebar (N) > "Timeline Note" tab
-*   **Developer**: Bambi (António Bambi José)
+*   **Developer**: Bambi
 *   **License**: GPL v3
-
----
-
-## 👨‍💻 About the Author
-**Bambi** is a professional software developer and 3D animator based in **Luanda, Angola**. He is the CEO of **Leviatan HQs** and developer of tools like **Rupia GDD**.
-
-- **Portfolio:** [Seu Link Aqui]
-- **Current Projects:** *NDoki: Last Night* (Survival Horror Game).
-
----
-*Developed by Bambi*
