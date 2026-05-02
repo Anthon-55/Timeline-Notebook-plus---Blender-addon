@@ -5,6 +5,9 @@
 
 **Stop using external notes. Direct your animation, manage pose adjustments, and camera cues without ever leaving the 3D scene.**
 
+**Direct download**
+https://github.com/Anthon-55/Timeline-Notebook-plus---Blender-addon/releases/download/v5.3/TMPlus.zip
+
 ---
 
 ## 📄 Overview
